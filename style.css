@@ -1,0 +1,18 @@
+*{
+  margin: 0px;
+  padding: 0px;
+  box-sizing: border-box;
+}
+.header{
+  height: 10vh;
+  background-color: #A3E4D7;
+}
+.col-1{
+  font-size: 20px;
+}
+.col-1 a{
+  color: #0E6251;
+}
+.col-1 a:hover{
+  color: cadetblue;
+}
